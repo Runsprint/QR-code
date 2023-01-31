@@ -1,0 +1,32 @@
+body {
+    background-color : #D5E1EF;
+
+   }
+   div{
+     
+     background-color:white;
+     Border-radius: 20px;
+     overflow:hidden;
+     padding: 16px;
+     text-align: center;
+     margin: auto;
+     width:350px;
+       
+   }
+   img{
+     max-width:100%;
+     border-radius:10px;
+   }
+   h1 {
+     width: 288;
+     text-align: center;
+     color: #1f314f;
+     margin-top: 22px;
+   }
+
+   p{
+     width: 256px;
+     font-size: 15px;
+     color: #7d889e;
+     padding: 0.30px 40px;
+   }
